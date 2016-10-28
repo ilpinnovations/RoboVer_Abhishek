@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_2f7969851944d4976b701d4cc73611d13852ff23\classes.dex" />
+    </item>
+    <item
+        jar="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_fc2100c37b64a1faad36ae1b6d64845e8e5d02e4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\1007546\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_8b8b616168e00cb8a6248c757323ad272f433dc1\classes.dex" />
+    </item>
+    <item
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_408c15b258b89568cbbccabd36b36b4eb2b6e9bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\1007546\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_0cec954b6aef78b58022ed4131dc048ec80e9b31\classes.dex" />
+    </item>
+    <item
+        jar="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_20c3ae06f390f24ea1e5996a4b9093ea2aa7c1be\classes.dex" />
+    </item>
+    <item
+        jar="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.7.0_a845b04a91d22bcdb7f93c34027fd959f90cb001\classes.dex" />
+    </item>
+    <item
+        jar="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9e28648c7266bf06c2c94fe35f0b634c39594bd">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f1ae2210f004f39808eb42795ff763ebf330ff32\classes.dex" />
+    </item>
+    <item
+        jar="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_ebf6433316012552531a4700d93306a8aec61961\classes.dex" />
+    </item>
+    <item
+        jar="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\libs\gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.6.2_9ef36d29338a54684f4631ff0a2e020a68d523c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_b1e1647fc8b5f72f00a8494108e50920767229d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\1007546\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_c8aceccb5ab40e347afb30790f4896bc15df8430\classes.dex" />
+    </item>
+    <item
+        jar="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7f925a647bca19aa16b6dda43afde9b5f76d96ad">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4941dc2064607119c74a8d97b261ad671bf5625a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\face\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b40d5a017179a5aa1ef65d47e8a793a56c2b9aeb">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.microsoft.projectoxford-face-1.1.0_ad1d8d2694a27c6169735216245255051c2596b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\1007546\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Abhishek\android_projects\RoboVer-master\RoboVer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_bc61161b905de7268529d58cb5e003b980387a46\classes.dex" />
+    </item>
+
+</items>
